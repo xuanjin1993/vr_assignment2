@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: pig
+Author: Jessie gu
+URL: https://poly.google.com/view/57OFZCdXsNh
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pig in a blanket
+Author: Jens Zalzala
+URL: https://poly.google.com/view/bkJ34iBWjZg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: piggie
+Author: Blocks At Unite
+URL: https://poly.google.com/view/fjrpgBDN_9f
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Splorg Head
+Author: Evol
+URL: https://poly.google.com/view/8BgWS1kzx-g
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Voxel Pig
+Author: Mauri Helme
+URL: https://poly.google.com/view/abovMDkoWAN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
